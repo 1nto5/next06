@@ -10,7 +10,7 @@ export default function Navbar() {
             href="/"
             className="text-white/90 no-underline hover:text-white"
           >
-            Adrian Antosiak
+            Antoś Antosiak
           </Link>
         </h1>
         <div className="flex flex-row justify-center gap-4 align-middle text-4xl text-white sm:justify-evenly lg:text-5xl">

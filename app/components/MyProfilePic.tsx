@@ -8,7 +8,7 @@ export default function MyProfilePic() {
         src="/images/profile.jpeg"
         width={200}
         height={200}
-        alt="Adrian Antosiak"
+        alt="Antoś"
         priority={true}
       />
     </section>
